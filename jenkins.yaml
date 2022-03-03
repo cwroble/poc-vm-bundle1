@@ -61,9 +61,6 @@ unclassified:
     useExistingAccountWithSameEmail: false
   junitTestResultStorage:
     storage: "file"
-  location:
-    adminAddress: "address not configured yet <nobody@nowhere>"
-    url: "http://chriswroble.net/devteam5/"
   mailer:
     charset: "UTF-8"
     useSsl: false
